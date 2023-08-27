@@ -1,4 +1,4 @@
-# CBTC
+# CBTCIP
 This is a repository where i will post my task's code offered by #CipherByte Technologies
 ## Task 1 - Landing page 
          It is an animated landing page made using HTML and CSS 
